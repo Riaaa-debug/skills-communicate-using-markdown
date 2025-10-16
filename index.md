@@ -7,7 +7,9 @@ var myVar = "Hello, world!";
 ```
  Code blocks: code blocks can render differently depending on the language
 
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
@@ -25,6 +27,7 @@ var myVar = "Hello, world!";
 
 
 ## The only changes I made were adding this and the first heading.
+
 
 
 
