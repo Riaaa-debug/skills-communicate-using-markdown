@@ -1,9 +1,8 @@
 # This is a header
 
 ![alt]![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-$ git init
-Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 
+Code blocks: code blocks can render differently depending on the language
 
 
 
@@ -23,6 +22,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 ## The only changes I made were adding this and the first heading.
+
 
 
 
